@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 # 안녕하세요! 👋
 
 안녕하세요, **이상혁**입니다. 
